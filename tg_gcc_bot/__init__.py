@@ -9,7 +9,7 @@ __author__ = "Ammosov Daniil"
 
 
 # ======================== MAIN OBJECTS ===============================
-API_TOKEN = "1586731792:AAFVL6HyRoldBP0uACqCy9gox7gbb2f8qK0"
+API_TOKEN = "TOKEN"
 
 bot = Bot(token=API_TOKEN)
 dp = Dispatcher(bot)
